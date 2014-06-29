@@ -1,0 +1,11 @@
+{
+	'result' :'success',
+	'team1total' : 100,
+	'team1players' : 12,
+	'team2total' : 200,
+	'team2players' : 22,
+	'drawtotal' : 30,
+	'drawplayers' : 2,
+	'matchtotal' : 30,
+	'matchplayers' : 2
+}

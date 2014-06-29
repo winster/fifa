@@ -1,0 +1,7 @@
+{
+	'result':'success',
+	'name': 'Winster',
+	'gamesplayed': 5,
+	'balanace': 123,
+	'floatAmount':30
+}
